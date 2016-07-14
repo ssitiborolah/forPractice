@@ -1,1 +1,3 @@
 Some content
+Added line in master 1
+Added line in master 2
